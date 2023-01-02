@@ -7,7 +7,7 @@ Here we are solving the problem of uploading files to AWS S3 directly using Reac
 This is the quick start guide to uploading files to react.    
 - Clone Repo
 - Npm install
-- Update .env with your aws S3 bucket info
+- Update with your aws S3 bucket info
 You'll need to get the following things from your AWS S3 Account.
 - Access ID.
 - Access Key.
